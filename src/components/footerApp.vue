@@ -6,7 +6,7 @@
     </p> 
     <div class="columns is-mobile is-desktop is-fullhd is-centered is-vcentered">
       <div class="column is-one-third-mobile is-2-fullhd is-2-desktop">
-          <img class="image is-128x128" src="../assets/img/cloud-native-indonesia.png">
+          <img class="image is-128x128" src="../assets/img/cloud-native-indonesia.svg">
       </div>
       <div class="column is-one-third-mobile is-2-fullhd is-2-desktop">
           <img class="image is-128x128" src="../assets/img/jakartacn-logo.png">

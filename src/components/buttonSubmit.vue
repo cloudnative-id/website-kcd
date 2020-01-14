@@ -1,6 +1,6 @@
 <template>
     <section>
-        <b-button @click="clickMe" class="is-info">Submit</b-button>
+        <b-button @click="sendNotification" class="is-info">Submit</b-button>
     </section>
 </template>
 
@@ -8,7 +8,7 @@
     export default {
         name:'buttonSubmit',
         methods: {
-            clickMe() {
+            sendNotification() {
                 this.$buefy.notification.open('Form has been submited!!')
             }
         }
